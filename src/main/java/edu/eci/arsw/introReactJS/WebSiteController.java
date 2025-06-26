@@ -17,6 +17,6 @@ public class WebSiteController {
         return "{\"status\":\"Greetings from Spring Boot. " +
                 java.time.LocalDate.now() + ", " +
                 java.time.LocalTime.now() +
-                ". " + "The server is Runnig!\"}";
+                ". " + "The server is Running!\"}";
     }
 }
